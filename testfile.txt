@@ -4,3 +4,4 @@ Add second commit
 
 Something new
 test1
+test2
